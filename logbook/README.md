@@ -8,4 +8,7 @@
 - Aim for diversity, address different aspects  
 - Have fun, learn something new 
 
-
+### Solved
+- hello-world
+- space-age
+- flatten-array

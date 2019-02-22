@@ -19,3 +19,5 @@ Side note: simple problems are better solved in a simple way; do not overthink i
 - etl 
 - scrabble-score
 - binary-search
+- binary-search-tree
+- alphametics

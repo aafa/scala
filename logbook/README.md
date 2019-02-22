@@ -11,13 +11,13 @@
 Side note: simple problems are better solved in a simple way; do not overthink it
 
 ### Solved
-- hello-world
-- space-age
-- flatten-array
-- nucleotide-count
-- bank-account
-- etl 
-- scrabble-score
-- binary-search
-- binary-search-tree
-- alphametics
+- [hello-world](../exercises/hello-world)
+- [space-age](../exercises/space-age)
+- [flatten-array](../exercises/flatten-array)
+- [nucleotide-count](../exercises/nucleotide-count)
+- [bank-account](../exercises/bank-account)
+- [etl](../exercises/etl) 
+- [scrabble-score](../exercises/scrabble-score)
+- [binary-search](../exercises/binary-search)
+- [binary-search-tree](../exercises/binary-search-tree)
+- [alphametics](../exercises/alphametics)

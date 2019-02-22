@@ -18,3 +18,4 @@ Side note: simple problems are better solved in a simple way; do not overthink i
 - bank-account
 - etl 
 - scrabble-score
+- binary-search

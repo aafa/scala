@@ -17,3 +17,4 @@ Side note: simple problems are better solved in a simple way; do not overthink i
 - nucleotide-count
 - bank-account
 - etl 
+- scrabble-score

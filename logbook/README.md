@@ -8,7 +8,12 @@
 - Aim for diversity, address different aspects  
 - Have fun, learn something new 
 
+Side note: simple problems are better solved in a simple way; do not overthink it
+
 ### Solved
 - hello-world
 - space-age
 - flatten-array
+- nucleotide-count
+- bank-account
+- etl 
